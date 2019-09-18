@@ -2,7 +2,7 @@
 
 The repository contain 4 subtopics:
 
-a. Market Basket Analysis with Apriori
-b. Collaborative Filtering
-c. Content based and Hybrid
-d. A/B Testing
+1. Market Basket Analysis with Apriori
+2. Collaborative Filtering
+3. Content based and Hybrid
+4. A/B Testing
